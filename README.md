@@ -12,7 +12,7 @@
 
 ![](media/englishsplash.gif)
 
-### GermanY
+### Germany
 
 ![](media/germansplash.gif)
 
